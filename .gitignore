@@ -4,3 +4,8 @@ terraform*
 # rc files
 *openrc.sh
 
+# MAC OS Metadata
+.DS_Store
+
+# Ignore local changes to versions.tf
+versions.tf
